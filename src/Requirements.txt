@@ -1,0 +1,13 @@
+Requirements:
+1. How many entry & exit gates? = 1 each for now.
+2. How many types of vechiles? 2 for now (2 wheeler & 4 wheeler)
+3. Pricing policy? let's charge hourly for 2W & minute for 4W 
+
+
+Objects:
+1. Vechile - Done
+2. ParkingSlot - Done
+3. Ticket - Done
+4. EntryGate - Done
+5. ExitGate - Done
+6. CostCalculator - Done
